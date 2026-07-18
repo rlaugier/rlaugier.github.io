@@ -9,6 +9,10 @@ layout: default #home
 
 *Working towards the observation of earth-like planets*
 
-## Just initial thoughts
+## Research
 
-* Intialization of this site
+* [Asgard/NOTT](/_posts/2026-05-01-Asgard-NOTT.md)
+
+
+## About me and this site
+* [About this site](/_posts/2024-01-17-initial_post.md)
