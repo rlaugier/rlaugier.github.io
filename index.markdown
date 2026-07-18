@@ -4,3 +4,11 @@
 
 layout: home
 ---
+
+# Astronomy at the edge of the diffraction limit
+
+*Working towards the observation of earth-like planets*
+
+## Just initial thoughts
+
+* Intialization of this site
